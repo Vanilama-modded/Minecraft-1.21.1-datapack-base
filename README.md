@@ -1,1 +1,1 @@
-<img src="https://app.box.com/file/1842051347565" alt="datapack structure">
+<img src="Screenshot_20250422_213535_Spck Editor.jpg" alt="datapack structure">
